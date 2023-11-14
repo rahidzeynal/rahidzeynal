@@ -10,13 +10,13 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a web project**
  
  🌱 I’m currently learning **Python, Django, API, REST API, Java and etc.**
 
  💬 Ask me about **SQL, Oracle DB, Python, Django, ETL... or anything [here](https://github.com/rahidzeynal/rahidzeynal/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
  
  </div>
 
@@ -37,8 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,oracle,mssql,mysql,mongodb,plsql,oraclesql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,git,idea,linux,mysql,postgres,django,vim,vscode,sqlite,stackoverflow" /><br>
 </div>
 
 <br/>
