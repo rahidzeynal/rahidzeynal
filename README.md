@@ -10,9 +10,11 @@
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahidzeynal" alt="rahidzeynal" /></a> </p>
-
-
 <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahidzeynal&show_icons=true&locale=en" alt="rahidzeynal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahidzeynal&" alt="rahidzeynal" /></p>
+<br>
 <div align="left">
  
  🔭 I’m currently working on **a web project**
@@ -21,7 +23,7 @@
 
  💬 Ask me about **SQL, Oracle DB, Python, Django, ETL... or anything [here](https://github.com/rahidzeynal/rahidzeynal/issues)**
 
- <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
 
@@ -51,5 +53,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
 <br/>
