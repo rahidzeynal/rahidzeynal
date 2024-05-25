@@ -12,18 +12,7 @@
 <h3 align="center">A passionate developer from Earth</h3>
 
 <br/>
-<!--<p align="left"> <a href="https://github.com/rahidzeynal/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahidzeynal" alt="rahidzeynal" /></a> </p>
-<a href="https://github.com/rahidzeynal/github-profile-trophy"><h2 align="center">🏆 Github Profile Trophy</h2></a>
-<div align="center"><a href="https://github.com/rahidzeynal/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rahidzeynal&column=9&theme=gruvbox&no-frame=true"/>
-</a>
-</div>
-<br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahidzeynal&show_icons=true&locale=en" alt="rahidzeynal" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahidzeynal&" alt="rahidzeynal" /></p>
-<br>
--->
+
 <div align="center"> 
   <a href="mailto:zeynalovrahid1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,24 +28,8 @@
 <hr/>
 
 <h2 align="center">📝 Knowledge and skills 📝</h2>
-<div align="center">
- 
- 🔭 I’m currently working on **a web project**
- 
- 🌱 I’m currently learning **Python, Django, API, REST API, Java and etc.**
-
- 💬 Ask me about **SQL, Oracle DB, Python, Django, ETL... or anything [here](https://github.com/rahidzeynal/rahidzeynal/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,git,idea,linux,mysql,postgres,django,vim,sqlite,stackoverflow" /><br>
-</div>
-
 <br/>
 <hr/>
 
